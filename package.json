@@ -1,0 +1,24 @@
+{
+  "name": "aor-language-slovenian",
+  "version": "1.0.0",
+  "description": "Slovenian translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariskemper/aor-language-slovenian.git"
+  },
+  "keywords": [
+    "react",
+    "admin-on-rest",
+    "translation"
+  ],
+  "author": "Aris Kemper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ariskemper/aor-language-slovenian/issues"
+  },
+  "homepage": "https://github.com/ariskemper/aor-language-slovenian#readme"
+}
