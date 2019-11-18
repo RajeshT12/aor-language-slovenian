@@ -1,5 +1,5 @@
 {
-  "name": "aor-language-slovenian",
+  "name": "ra-language-slovenian",
   "version": "1.0.0",
   "description": "Slovenian translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
   "main": "index.js",
