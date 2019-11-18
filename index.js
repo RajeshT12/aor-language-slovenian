@@ -1,5 +1,5 @@
 export default {
-  aor: {
+  ra: {
     action: {
       delete: 'Odstrani',
       show: 'Prikaži',
